@@ -1,0 +1,43 @@
+Hız Limiti (20km/h)
+Hız Limiti (30km/h)
+Hız Limiti (50km/h)
+Hız Limiti (60km/h)
+Hız Limiti (70km/h)
+Hız Limiti (80km/h)
+Hız sınırının sonu (80km/h)
+Hız Limiti (100km/h)
+Hız Limiti (120km/h)
+Geçiş yok
+3.5 tonun üzerinde araç geçemez
+Geçiş hakkı kavşaktaki araçda
+Öncelikli yol
+Yol Ver
+Dur
+Araç giremez
+Yük Taşıtlarının Öndeki Aracı Geçmesi Yasaktır
+Giriş yok
+Dikkat
+Sola Tehlikeli Viraj
+Sağa Tehlikeli Viraj
+İki Tarafa Tehlikeli Viraj
+Engebeli Yol
+Kaygan yol
+Sağdan daralan kaplama
+Yol Çalışması
+Trafik İşaretleri
+Yayalar
+Çocuklar geçiyor
+Bisiklet Yolu
+Gizli Buzlanma
+Vahşi Hayvan Geçebilir
+Bütün Yasaklama ve Kısıtlamaların Sonu
+Sağa dön
+Sola dön
+Sadece İleri
+Düz veya sağa git
+Düz veya sola git
+Sağdan Gidiniz
+Soldan Gidiniz
+Ada Etrafinda Dönünüz
+Geçme Yasağı Sonu
+Yük Taşıtlarının Öndeki Aracı Geçmesi Yasağı Sonu
