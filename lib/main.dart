@@ -12,13 +12,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Traffic Signs Recognition App',
-
+      title: 'Trafik İşaretleri Tanıma',
+      debugShowCheckedModeBanner: false,
       theme: ThemeData(
-    
-        useMaterial3: true, 
-        colorScheme:   ColorScheme.fromSeed(seedColor: Colors.green, brightness: Brightness.light),
-       ),
+        useMaterial3: true,
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue, brightness: Brightness.dark),
+      ),
       home: const OpenGallery(),
     );
   }
